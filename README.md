@@ -31,3 +31,7 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 
 <img width="638" alt="augment3" src="https://cloud.githubusercontent.com/assets/18632383/25984038/4c277d20-36b6-11e7-9a9b-61bee3e402a1.png">.
 
+<img width="642" alt="augment4" src="https://cloud.githubusercontent.com/assets/18632383/25984126/d472b8de-36b6-11e7-94ca-236b5c152cf1.png">.
+### Final Network
+
+
