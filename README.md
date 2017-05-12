@@ -17,7 +17,8 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 * Residual Network, N = (V, E, Cf, s, t)
 * In Residual Network, all edges having zero capacities are removed.
 <img width="334" alt="residual" src="https://cloud.githubusercontent.com/assets/18632383/25983586/c0f408ec-36b3-11e7-886e-6798f1d47898.png">.
-## Ford-Fulkerson Algorithm
+## Maximum Flow
+### Ford-Fulkerson Algorithm
 * Initialize the network with zero flow.
 * While there is an augment path,<br />
 --find the augment path;<br />
@@ -34,4 +35,5 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 <img width="642" alt="augment4" src="https://cloud.githubusercontent.com/assets/18632383/25984126/d472b8de-36b6-11e7-94ca-236b5c152cf1.png">.
 ### Final Network
 
-
+<img width="590" alt="final" src="https://cloud.githubusercontent.com/assets/18632383/25984192/3f2d25b0-36b7-11e7-897d-c96f66d2c530.png">.
+## Minimum Cut
