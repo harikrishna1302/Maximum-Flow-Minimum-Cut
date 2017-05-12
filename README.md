@@ -37,3 +37,7 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 
 <img width="590" alt="final" src="https://cloud.githubusercontent.com/assets/18632383/25984192/3f2d25b0-36b7-11e7-897d-c96f66d2c530.png">.
 ## Minimum Cut
+* Cut:  a partition of the vertices of a graph into two disjoint subsets such that source is in one subset and the sink in other.
+* Minimum Cut of a graph is a cut that is minimal.
+* Can be find by using Ford-Fulkerson Algorithm.
+
