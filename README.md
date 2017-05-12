@@ -27,4 +27,7 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 * Repeat the above procedure until you find augment paths.
 <img width="623" alt="augment1" src="https://cloud.githubusercontent.com/assets/18632383/25983840/36d0d2a6-36b5-11e7-83d0-19d38283240e.png">.
 
-<img width="625" alt="augment2" src="https://cloud.githubusercontent.com/assets/18632383/25983942/b77d1e64-36b5-11e7-875d-09344928b1d5.png">
+<img width="625" alt="augment2" src="https://cloud.githubusercontent.com/assets/18632383/25983942/b77d1e64-36b5-11e7-875d-09344928b1d5.png">.
+
+<img width="638" alt="augment3" src="https://cloud.githubusercontent.com/assets/18632383/25984038/4c277d20-36b6-11e7-9a9b-61bee3e402a1.png">.
+
