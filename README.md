@@ -40,4 +40,5 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 * Cut:  a partition of the vertices of a graph into two disjoint subsets such that source is in one subset and the sink in other.
 * Minimum Cut of a graph is a cut that is minimal.
 * Can be find by using Ford-Fulkerson Algorithm.
+![minimum cut](https://cloud.githubusercontent.com/assets/18632383/25984583/0c49c788-36b8-11e7-8844-68de72f2ceca.jpg)
 
