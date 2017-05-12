@@ -1,5 +1,5 @@
 # Maximum-Flow-Minimum-Cut
-## 1. Abstract
+## Abstract
 The main objective is to implement the MaxFlow-MinCut problem for a given network which contains the following requirements.
 ### Network Requirements: 
 * Directed Graph.
