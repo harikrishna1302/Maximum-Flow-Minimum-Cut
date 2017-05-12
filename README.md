@@ -9,4 +9,10 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 <img width="282" alt="network" src="https://cloud.githubusercontent.com/assets/18632383/25983214/35fd787e-36b1-11e7-8bce-fd91202e5b88.png">.
 
 ### Constraints
+* Flow on any edge is non-negative and doesn’t exceed the capacity.
+     0 ≤ f ≤ C, where f – flow in edge, C – capacity of an edge.
+* Incoming flow is equal to the outgoing flow for every nodes except source and sink.
 
+## Residual Network
+* Residual Network, N = (V, E, Cf, s, t)
+* In Residual Network, all edges having zero capacities are removed.
