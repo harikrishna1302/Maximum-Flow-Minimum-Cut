@@ -5,5 +5,4 @@ The main objective is to implement the MaxFlow-MinCut problem for a given networ
 * Directed Graph.
 * Should contain source and sink nodes.
 * Weights(Capacities).
-### Network
 
